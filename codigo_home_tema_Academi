@@ -1,0 +1,98 @@
+<table class="table table-hover table-striped">
+    <thead>
+        <tr style="background-color: #009900; border-bottom: 4px solid #a5a5a5;">
+            <th><span style="color: #ffffff;">Aviso</span></th>
+            <th><span style="color: #ffffff;">Detalhes</span></th>
+            <th><span style="color: #ffffff;">Data</span></th>
+            <th><span style="color: #ffffff;">Veja mais</span></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><span><i class="fa fa-check-square-o" aria-hidden="true"></i><strong> Orientações - Gerar Identificação </strong></span></td>
+            <td><strong>Saiba como gerar sua carteirinha estudantil</strong><i class="fa fa-arrow-right" aria-hidden="true"></i></td>
+            <td style="text-align: left;">---</td>
+            <td><strong><a href="https://nuted.ouropreto.ifmg.edu.br/presencial/pluginfile.php/11043/mod_resource/content/1/INTEGRA%20-%20Gerar%20minha%20Identificacao.pdf" target="_blank">Clique aqui</a></strong></td>
+        </tr>
+        <tr>
+            <td><span><i class="fa fa-check-square-o" aria-hidden="true"></i><strong> Orientações - Plataforma MOODLE</strong></span></td>
+            <td><b>Consulte para saber como acessar a plataforma Moodle</b></td>
+            <td style="text-align: left;">---</td>
+            <td><a href="https://nuted.ouropreto.ifmg.edu.br/presencial/pluginfile.php/25904/mod_resource/content/2/Moodle_OrientacoesParaAlunos.pdf" target="_blank"><b>Clique aqui</b></a></td>
+        </tr>
+        <tr>
+            <td><i aria-hidden="true"></i><strong><i class="fa fa-check-square-o" aria-hidden="true"></i>Orientações - Atualizar senha no moodle</strong></td>
+            <td><b>Consulte para saber como atualizar sua senha&nbsp;<br></b>
+            </td>
+            <td style="text-align: left;">---</td>
+            <td><a href="https://www.youtube.com/watch?v=AwdY3ARgk5U" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></td>
+        </tr>
+        <tr>
+            <td><span><i class="fa fa-check-square-o" aria-hidden="true"></i><strong> Orientações - Acessar as minhas disciplinas</strong></span></td>
+            <td><b>Consulte para saber como acessar as suas disciplinas no moodle<br></b>
+            </td>
+            <td style="text-align: left;">---</td>
+            <td><a href="https://www.youtube.com/watch?v=wZzmomOEN4Q" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></td>
+        </tr>
+        <tr>
+            <td><span><i class="fa fa-check-square-o" aria-hidden="true"></i><strong> Orientações -Manuais de apoio da TI</strong></span></td>
+            <td><b>ERE - Suporte técnico TI<br></b>
+            </td>
+            <td style="text-align: left;">---</td>
+            <td><a href="https://manuais.ouropreto.ifmg.edu.br/shelves/ere-suporte-tecnico-ti" target="_blank"><b>Clique aqui</b></a></td>
+        </tr>
+    </tbody>
+</table>
+
+
+<h2>Links Importantes</h2>
+<div class="container-fluid" style="display: flex; flex-direction: row; justify-content: center; align-items: center; overflow: none;">
+    <div class="row">
+        <div class="mb2-pb-fpcol noempty">
+            <div class="column-inner">
+                <div class="theme-boxes clearfix">
+                    <div class="theme-box"><a href="https://meu.ifmg.edu.br/" target="_blank"></a>
+                        <div class="theme-boxicon type-1 color-primary">
+                            <a href="https://meu.ifmg.edu.br/" target="_blank">
+                                <div class="theme-boxicon-icon"><i class="fa fa-graduation-cap"></i></div>
+                            </a>
+                            <div class="theme-boxicon-content">
+                                <h4 class="theme-boxicon-title"><a href="https://meu.ifmg.edu.br/" target="_blank">MeuIFMG</a></h4>Sistema de Gestão Acadêmica do IFMG.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="theme-box"><a href="http://pergamum.ifmg.edu.br/pergamum/biblioteca/index.php" target="_blank"></a>
+                        <div class="theme-boxicon type-1 color-primary">
+                            <a href="http://pergamum.ifmg.edu.br/pergamum/biblioteca/index.php" target="_blank">
+                                <div class="theme-boxicon-icon"><i class="fa fa-book"></i></div>
+                            </a>
+                            <div class="theme-boxicon-content">
+                                <h4 class="theme-boxicon-title"><a href="http://pergamum.ifmg.edu.br/pergamum/biblioteca/index.php" target="_blank">Pergamun</a></h4>Sistema de Gestão de Biblioteca.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="theme-box"><a href="https://ouropreto.ifmg.edu.br/" target="_blank"></a>
+                        <div class="theme-boxicon type-1 color-primary">
+                            <a href="http://ouropreto.ifmg.edu.br/" target="_blank">
+                                <div class="theme-boxicon-icon"><i class="fa fa-at"></i></div>
+                            </a>
+                            <div class="theme-boxicon-content">
+                                <h4 class="theme-boxicon-title"><a href="http://ouropreto.ifmg.edu.br/" target="_blank">Portal IFMG-OP</a></h4>Saiba o que acontece no Campus&nbsp;
+                            </div>
+                        </div>
+                    </div>
+                    <div class="theme-box"><a href="https://idifmg.ouropreto.ifmg.edu.br/" target="_blank"></a>
+                        <div class="theme-boxicon type-1 color-primary">
+                            <a href="https://idifmg.ouropreto.ifmg.edu.br/" target="_blank">
+                                <div class="theme-boxicon-icon"><i class="fa fa-id-card"></i></div>
+                            </a>
+                            <div class="theme-boxicon-content">
+                                <h4 class="theme-boxicon-title"><a href="https://idifmg.ouropreto.ifmg.edu.br/" target="_blank">IdIFMG</a></h4>Crie seu IdIFMG
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
